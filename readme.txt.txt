@@ -1,2 +1,2 @@
-每天一道算法
+Algorithm to practice 
 20/per
